@@ -1,7 +1,7 @@
 # Terminal Watson
 Terminal Watson is a Python program that integrates IBM Watson Assistant and can be accessed directly from your terminal. Experience the power of Watson's conversational AI in an easy-to-use, command-line interface.
 
-# TWO-STEP Installation Guide - Terminal Watson [Version 2.1] - June 7th, 2023
+# TWO-STEP Installation Guide - Terminal Watson [Version 2.2] - June 7th, 2023
 [Step 1]: Open 'install_TmWatson.sh' with Terminal to install the program.
 
 [Step 2]: Open the TmWatson.py file and insert your own Watson Assistant credentials where indicated. These include your API key, service URL, and assistant ID. [DONE]: Terminal Watson is now installed!
